@@ -5,5 +5,6 @@ This is the code written, tested and verified by Jeremy Lin, Daniel Mok and Saha
 
 ## Final Deliverable
 The image below shows the final hardware implementation for the project.
-file:///home/sahaj/Downloads/ELEC3204-Diagram.drawio%20(1).svg
+
+![Hardware Implementation](assets/hardware-diagram.svg)
 
